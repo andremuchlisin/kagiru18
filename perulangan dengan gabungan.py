@@ -1,7 +1,7 @@
 """
 perulangan membaca buku
 """
-bbok_count = 10
+book_count = 10
 print('ibu berkata, "baca semua bukumu')
 read_count = 0
 
